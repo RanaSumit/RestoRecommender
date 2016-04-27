@@ -15,6 +15,9 @@ header {
 	background-color:rgba(31, 20, 20, 0.8);
 
 }
+.button {
+	float: right;
+}
 
 .logo {
 
@@ -62,7 +65,7 @@ header {
 
 	padding-left: 0px !important;
 
-	float: none;
+	float: right;
 
 }
 
